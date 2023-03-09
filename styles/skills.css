@@ -1,0 +1,39 @@
+.skills {
+  padding: 91px 0 110px 0;
+}
+
+.skills__header {
+  text-align: center;
+  font-family: Gilroy-Bold;
+  font-size: 34px;
+  line-height: 42px;
+ 
+}
+
+.skills__subtitle {
+  display: block;
+  text-align: center;
+  font-family: Gilroy-Medium;
+  font-size: 18px;
+  line-height: 22px;
+  color: #070707;
+  margin-top: 69px;
+  margin-bottom: 82px;
+  height: 24px;
+}
+
+.skills__items{
+  display:flex;
+  justify-content: space-around;
+
+
+}
+
+
+.skills__image{
+  margin: 23px 0 40px;
+  width: 79px;
+  height: 27px;
+  justify-content: center;
+}
+

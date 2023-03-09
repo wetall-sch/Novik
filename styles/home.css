@@ -1,0 +1,130 @@
+.header__list {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 127;
+  border-bottom: 1px solid #828282;
+  padding-bottom: 31px;
+}
+.p1 {
+  padding-top: 183px;
+  margin: 50px;
+}
+
+.home__title {
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  font-size: 48px;
+  line-height: 59px;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.homeimg {
+  width: 940px;
+  height: 387px;
+}
+
+h2 {
+  font-size: 34px;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: center;
+  padding-top: 120px;
+  margin-bottom: 17px;
+}
+.container__3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 54px;
+  background: #f6f6f6;
+}
+.block2__text {
+  width: 485px;
+  text-align: center;
+}
+
+.pf__img {
+  padding-right: 256px;
+  padding-top: 47px;
+}
+.subtitle__pf1 {
+  padding-top: 43px;
+  padding-bottom: 55px;
+  font-family: Gilroy-Medium;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.reebok__img {
+  padding-right: 256px;
+}
+
+.subtitle__reebok {
+  margin-top: 43px;
+  padding-bottom: 99px;
+  font-family: Gilroy-Medium;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.braun__img {
+  padding-right: 256px;
+}
+
+.subtitle__braun {
+  font-family: Gilroy-Medium;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-top: 44px;
+  text-decoration: underline;
+}
+
+.sub__contacts {
+  height: 44px;
+  padding-top: 21px;
+  font-family: Gilroy-Medium;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  justify-content: center;
+}
+.wraperStars {
+  display: flex;
+  justify-content: space-around;
+}
+
+.__imgSend {
+  width: 181px;
+  height: 42px;
+  padding-top: 30px;
+  padding-left: 658px;
+  justify-content: center;
+}
+
+.footer__icon {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 98px;
+}
+
+.footer__end {
+  display: block;
+  padding-top: 46px;
+  font-family: Gilroy-Medium;
+  font-size: 14px;
+  box-sizing: border-box;
+  text-align: center;
+}

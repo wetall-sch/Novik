@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+ font-family: "Gilroy";
+ color: #070707;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+  color: #000;
+}
